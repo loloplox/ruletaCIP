@@ -1,0 +1,16 @@
+.containerPalanca {
+    margin-top: 50px;
+}
+
+.palanca {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #00d5ff;
+    cursor: pointer;
+}
+
+.palanca:active {
+    background-color: #03b4d7;
+}

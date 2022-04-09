@@ -1,0 +1,13 @@
+.containerRuleta {
+    background-color: white;
+    border-radius: 10px;
+    min-height: 400px;
+    min-width: 800px;
+    text-align: center;
+}
+
+.containerNumbers {
+    display: flex;
+    place-content: center;
+    margin-top: 100px;
+}
